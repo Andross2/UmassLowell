@@ -1,4 +1,4 @@
------------------------------------------- Selective Repeat --------------------------------
+
 /*--------------------------------------------Contributors---------------------------------------------*/
 
    - Naga Ganesh Kurrapati         
@@ -7,7 +7,7 @@
 
 /*--------------------------------------------Program Files-------------------------------------------*/
 
-  
+ **This phase demostrates working of selective repeat protocol in JAVA programming using clien-server architecture 
    UDPClient.java
    
    -   The purpose of this file is to send data (.bmp file) from the client to server which 
