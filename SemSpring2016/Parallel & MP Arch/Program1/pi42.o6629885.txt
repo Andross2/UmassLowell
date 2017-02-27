@@ -1,0 +1,8 @@
+TACC: Starting up job 6629885
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+Enter Number of tosses 
+The estimated value of Pi= 3.141344 
+Elapsed time = 1.193094e-02 seconds
+
+TACC: Shutdown complete. Exiting.
