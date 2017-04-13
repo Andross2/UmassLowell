@@ -1,0 +1,95 @@
+\beamer@endinputifotherversion {3.36pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Background}{3}{Background}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Traditionally, How routing is done?}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Traditionally, How routing is done?}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{Software-Defined Networking, What it is promising?}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {1}{2}{1}{4/4}{Software-Defined Networking, What it is promising?}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{5}{Understanding the parameters}}\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {1}{3}{1}{5/5}{Understanding the parameters}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{6}{Challenges faced by SDN}}\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\slideentry {1}{4}{1}{6/6}{Challenges faced by SDN}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\sectionentry {2}{Efficiency - Better Load Balancing}{7}{Efficiency - Better Load Balancing}{0}}
+\headcommand {\beamer@sectionpages {3}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{Equal-cost multi-path routing (ECMP)}}\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\slideentry {2}{1}{1}{7/7}{Equal-cost multi-path routing (ECMP)}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{SDN, Central controller to decide traffic flow}}\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\slideentry {2}{2}{1}{8/8}{SDN, Central controller to decide traffic flow}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{9}{CONGA: Congestion-Aware Load Balancing (Cisco)}}\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\slideentry {2}{3}{1}{9/9}{CONGA: Congestion-Aware Load Balancing (Cisco)}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{10}{Introduction to HULA }}\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\slideentry {2}{4}{1}{10/10}{Introduction to HULA }{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{11}{Design Challenges for HULA}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {2}{5}{1}{11/11}{Design Challenges for HULA}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {2}{5}{2}{12/12}{Design Challenges for HULA}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{2}{6}{13}{HULAOverview: Scalable, Proactive, Adaptive, and Programmable}}\headcommand {\beamer@subsectionpages {11}{12}}
+\headcommand {\slideentry {2}{6}{1}{13/13}{HULAOverview: Scalable, Proactive, Adaptive, and Programmable}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{6}{2}{14/14}{HULAOverview: Scalable, Proactive, Adaptive, and Programmable}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{2}{7}{15}{HULA Design: Probes and Flowlets}}\headcommand {\beamer@subsectionpages {13}{14}}
+\headcommand {\slideentry {2}{7}{1}{15/15}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{7}{2}{16/16}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {2}{7}{3}{17/17}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {2}{7}{4}{18/18}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {2}{7}{5}{19/19}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {2}{7}{6}{20/20}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {2}{7}{7}{21/21}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {2}{7}{8}{22/22}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {2}{7}{9}{23/23}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {2}{7}{10}{24/24}{HULA Design: Probes and Flowlets}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@subsectionentry {0}{2}{8}{25}{Programming HULA in P4}}\headcommand {\beamer@subsectionpages {15}{24}}
+\headcommand {\slideentry {2}{8}{1}{25/25}{Programming HULA in P4}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {2}{8}{2}{26/26}{Programming HULA in P4}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {2}{8}{3}{27/27}{Programming HULA in P4}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@subsectionentry {0}{2}{9}{28}{Evaluation of HULA}}\headcommand {\beamer@subsectionpages {25}{27}}
+\headcommand {\slideentry {2}{9}{1}{28/28}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {2}{9}{2}{29/29}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {2}{9}{3}{30/30}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {2}{9}{4}{31/31}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {2}{9}{5}{32/32}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {2}{9}{6}{33/33}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {2}{9}{7}{34/34}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {2}{9}{8}{35/35}{Evaluation of HULA}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\beamer@partpages {1}{35}}
+\headcommand {\beamer@subsectionpages {28}{35}}
+\headcommand {\beamer@sectionpages {7}{35}}
+\headcommand {\beamer@documentpages {35}}
+\headcommand {\def \inserttotalframenumber {35}}
